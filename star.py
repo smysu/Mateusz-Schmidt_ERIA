@@ -1,6 +1,6 @@
 from queue import PriorityQueue
-
-class Element:
+class
+class Element: 
 
 	def __init__(self, dystans_calkowity, heurystyka, pozycja):
 		
